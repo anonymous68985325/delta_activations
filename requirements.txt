@@ -1,0 +1,12 @@
+torch
+transformers
+datasets
+huggingface_hub
+peft
+trl
+einops
+accelerate
+sentencepiece
+evaluate
+scikit-learn
+matplotlib
